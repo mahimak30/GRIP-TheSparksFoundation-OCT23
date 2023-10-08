@@ -2,8 +2,7 @@
 
 ### Author : Mahima Kakumanu
 
-This are few of the tasks given to me in the internship from The Sparks Foundation i.e GRIP(Graduate Rotational Internship Program ) October 2023
-
+This repository consists of projects completed successfully during the October batch of Graduate Rotational Internship Program (GRIP) initiated by The Sparks Foundation. There are a total of Eight tasks
 
 ## Task1
 Prediction using Supervised ML
