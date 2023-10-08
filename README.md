@@ -1,9 +1,13 @@
 # The Spark Foundation Data Science Internship-Tasks
 
+### Author : Mahima Kakumanu
+
 This are few of the tasks given to me in the internship from The Sparks Foundation i.e GRIP(Graduate Rotational Internship Program ) October 2023
+
 
 ## Task1
 Prediction using Supervised ML
+
 ● Predict the percentage of an student based on the no. of study hours.
 
 ● What will be predicted score if a student studies for 9.25 hrs/ day?
@@ -12,14 +16,18 @@ Prediction using Supervised ML
 
 ● Dataset : http://bit.ly/w-data
 
+
 ## Task2
 Prediction using Unsupervised ML
+
 ● From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
 
 ● Dataset : https://bit.ly/3kXTdox
 
+
 ## Task 3
 Exploratory Data Analysis
+
 ● Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’
 
 ● As a business manager, try to find out the weak areas where you can work to make more profit.
@@ -28,8 +36,10 @@ Exploratory Data Analysis
 
 ● Dataset: https://bit.ly/3i4rbWl
 
+
 ## Task 4
 Exploratory Data Analysis-Terrorism
+
 ● Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’
 
 ● As a security/defense analyst, try to find out the hot zone of terrorism.
@@ -38,8 +48,10 @@ Exploratory Data Analysis-Terrorism
 
 ● Dataset: https://bit.ly/2TK5Xn5
 
+
 ## Task 5
 Exploratory Data Analysis - Sports
+
 ● Perform ‘Exploratory Data Analysis’ on dataset ‘Indian Premier League’
 
 ● As a sports analysts, find out the most successful teams, players and factors contributing win or loss of a team.
@@ -48,16 +60,20 @@ Exploratory Data Analysis - Sports
 
 ● Dataset:https://bit.ly/34SRn3b
 
+
 ## Task 6
 Prediction using Decision Tree Algorithm
+
 ● Create the Decision Tree classifier and visualize it graphically.
 
 ● The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
 
 ● Dataset : https://bit.ly/3kXTdox
 
+
 ## Task 7
 Stock Market Prediction using Numerical and Textual Analysis
+
 ● Objective: Create a hybrid model for stock price/performance prediction using numerical analysis of historical stock prices, and sentimental analysis of news headlines
 
 ● Stock to analyze and predict - SENSEX (S&P BSE SENSEX)
@@ -66,8 +82,10 @@ Stock Market Prediction using Numerical and Textual Analysis
 
 ● Download textual (news) data from https://bit.ly/36fFPI6
 
+
 ## Task 8
 Timeline Analysis : Covid-19
+
 ● Create a storyboard showing spread of Covid-19 cases in your country or any region (Asia, Europe, BRICS etc) using Tableau, Power BI or SAP
 
 ● Use animation, timeline and annotations to create attractive and interactive dashboards and story
